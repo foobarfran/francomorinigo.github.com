@@ -268,5 +268,3 @@ y por último la configuración a nuestro proyecto
 **Listo, ahora cualquiera puede correr la app dentro de un container de docker**
 
 docker run -p 8080:8080 docker.foo.com:5000/fooOrganization/fooApp:1.0.0 [development \| staging \| production]
-
-{% include twitter_plug.html %}
