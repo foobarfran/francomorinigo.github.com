@@ -9,7 +9,6 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Franco Morinigo
-tagline:
 author :
   name : Franco Morinigo
   email : fmorinigo@gmail.com
@@ -82,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : franconicolasmorinigo
     livefyre :
       site_id : 123
     intensedebate :

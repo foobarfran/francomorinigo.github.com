@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Dockerizando apps java para múltiples ambientes"
-description: ""
-category:
-tags: [java, docker, maven]
+tags: [java, docker, maven, devops]
 ---
 {% include JB/setup %}
 
@@ -270,3 +268,5 @@ y por último la configuración a nuestro proyecto
 **Listo, ahora cualquiera puede correr la app dentro de un container de docker**
 
 docker run -p 8080:8080 docker.foo.com:5000/fooOrganization/fooApp:1.0.0 [development \| staging \| production]
+
+{% include twitter_plug.html %}
